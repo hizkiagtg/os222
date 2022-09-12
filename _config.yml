@@ -1,0 +1,11 @@
+version:    "0001--12-Sep-2022"
+copyright:  "2022"
+author:     "Hizkia Sebastian Gintibg"
+title:      "OS222: Operating Systems 2022-2"
+githublink: "https://github.com/hizkiagtg/os222"
+myloglink:  "/TXT/mylog.txt"
+encoding:   UTF-8
+markdown:   kramdown
+input:      GFM
+hard_wrap:  false
+github:     [metadata]
