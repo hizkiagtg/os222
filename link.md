@@ -21,7 +21,7 @@ This website provides all shell commands in debian. It's very helpful for someon
 2. [OS 101](https://www.tutorialspoint.com/operating_system/index.htm)<br>
 Website that explains about all OS concept. This website provides all useful information.
 
-3. [Three](https://regex101.com/)<br>
+3. [Regex 101](https://regex101.com/)<br>
 Regex is quite difficult for me to understand. But, this website explains all the things that I need to know about regex, and also provides some useful exercise.
 
 <br>
