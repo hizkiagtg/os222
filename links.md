@@ -13,7 +13,9 @@ permalink: LINKS/
 <br>
 <hr>
 
-# LINKS
+## LINKS
+
+# Week 1
 
 1. [Debian Command](https://wiki.debian.org/ShellCommands)<br>
 This website provides all shell commands in debian. It's very helpful for someone like me
@@ -23,6 +25,11 @@ Website that explains about all OS concept. This website provides all useful inf
 
 3. [Regex 101](https://regex101.com/)<br>
 Regex is quite difficult for me to understand. But, this website explains all the things that I need to know about regex, and also provides some useful exercise.
+
+# Week 2
+
+1. [GnuPG 101](https://www.gnupg.org/documentation/howtos.html)
+This website provides all useful information about GnuPG.
 
 <br>
 <hr>
