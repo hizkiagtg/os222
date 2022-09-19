@@ -24,12 +24,18 @@ This website provides all shell commands in debian. It's very helpful for someon
 Website that explains about all OS concept. This website provides all useful information.
 
 3. [Regex 101](https://regex101.com/)<br>
-Regex is quite difficult for me to understand. But, this website explains all the things that I need to know about regex, and also provides some useful exercise.
+Regex is quite difficult for me to understand. But, this website explains all the things that I need to know about rege>
 
 # Week 2
 
 1. [GnuPG 101](https://www.gnupg.org/documentation/howtos.html)
-This website provides all useful information about GnuPG.
+GNU PG is an implementation symmetric-key cryptography. This website provides all useful information and docomentation about GnuPG. It will be very useful for beginner.
+
+2. [Crypto 101](https://www.crypto101.io/)
+Cryptography may be complicated for someone who are just learning it or just hear about it. But, this website provide full course and material (text book) for beginner who want to learn more about cryptography.
+
+3. [C 101](https://www.w3schools.com/c/index.php)
+C is one of the most useful language if we want to understand about operating system. This website provides complete exercises and tutorials on the C language. 
 
 <br>
 <hr>
