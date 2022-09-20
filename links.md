@@ -28,13 +28,13 @@ Regex is quite difficult for me to understand. But, this website explains all th
 
 # Week 2
 
-1. [GnuPG 101](https://www.gnupg.org/documentation/howtos.html)
+1. [GnuPG 101](https://www.gnupg.org/documentation/howtos.html)<br>
 GNU PG is an implementation symmetric-key cryptography. This website provides all useful information and docomentation about GnuPG. It will be very useful for beginner.
 
-2. [Crypto 101](https://www.crypto101.io/)
+2. [Crypto 101](https://www.crypto101.io/)<br>
 Cryptography may be complicated for someone who are just learning it or just hear about it. But, this website provide full course and material (text book) for beginner who want to learn more about cryptography.
 
-3. [C 101](https://www.w3schools.com/c/index.php)
+3. [C 101](https://www.w3schools.com/c/index.php)<br>
 C is one of the most useful language if we want to understand about operating system. This website provides complete exercises and tutorials on the C language. 
 
 <br>
