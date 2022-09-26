@@ -37,6 +37,14 @@ Cryptography may be complicated for someone who are just learning it or just hea
 3. [C 101](https://www.w3schools.com/c/index.php)<br>
 C is one of the most useful language if we want to understand about operating system. This website provides complete exercises and tutorials on the C language. 
 
+# Week 3
+1. [File System in Linux](https://www.javatpoint.com/linux-file-system#:~:text=What%20is%20the%20Linux%20File,more%20information%20about%20a%20file.)<br>
+
+A Linux file system is a structured collection of files on a disk drive or a partition. A partition is a segment of memory and contains some specific data. In our machine, there can be various partitions of the memory. It's quite difficult to learn this concept at first. But, this website explains file system in a good way.
+
+2. [General overview of Linux File System and Partitioning](https://tldp.org/LDP/intro-linux/html/sect_03_01.html)<br>
+
+"On a UNIX system, everything is a file; if something is not a file, it is a process". This website provides general overview of file system in UNIX system. This website also describe about partitioning in a good way, and with the easiest way to understand.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
