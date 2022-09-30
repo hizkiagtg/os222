@@ -45,6 +45,16 @@ A Linux file system is a structured collection of files on a disk drive or a par
 2. [General overview of Linux File System and Partitioning](https://tldp.org/LDP/intro-linux/html/sect_03_01.html)<br>
 
 "On a UNIX system, everything is a file; if something is not a file, it is a process". This website provides general overview of file system in UNIX system. This website also describe about partitioning in a good way, and with the easiest way to understand.
+# Week 4
+
+1. [Linux Memory Management](https://www.javatpoint.com/linux-memory-management#:~:text=The%20subsystem%20of%20Linux%20memory,programs%20and%20kernel%20internal%20structures.)<br>
+
+Linux memory management subsystem is a complicated system with several configurable settings. This website will be very usefull to learn that memory management in linux
+
+2. [Paging in Memory Management Linux](https://0xax.gitbooks.io/linux-insides/content/Theory/linux-theory-1.html)<br>
+
+Paging is a proccess that divide logical memory into blocks. This website will give provide a good explanation about paging and the process.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
