@@ -55,6 +55,16 @@ Linux memory management subsystem is a complicated system with several configura
 
 Paging is a proccess that divide logical memory into blocks. This website will give provide a good explanation about paging and the process.
 
+# Week 5
+
+1. [High and Low Memory in Linux](https://unix.stackexchange.com/questions/4929/what-are-high-memory-and-low-memory-on-linux)<br>
+
+Low Memory is the segment of memory that the Linux kernel can address directly. If the kernel must access High Memory, it has to map it into its own address space first. This web explain the detail about this concept.
+
+2. [Virtual Memory 101](https://tldp.org/LDP/sag/html/vm-intro.html#:~:text=Linux%20supports%20virtual%20memory%2C%20that,be%20used%20for%20another%20purpose.)<br>
+
+Linux supports virtual memory, that is, using a disk as an extension of RAM so that the effective size of usable memory grows correspondingly. The kernel will write the contents of a currently unused block of memory to the hard disk so that the memory can be used for another purpose. This web explain the detail about this concept.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
