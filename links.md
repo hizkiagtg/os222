@@ -65,6 +65,16 @@ Low Memory is the segment of memory that the Linux kernel can address directly. 
 
 Linux supports virtual memory, that is, using a disk as an extension of RAM so that the effective size of usable memory grows correspondingly. The kernel will write the contents of a currently unused block of memory to the hard disk so that the memory can be used for another purpose. This web explain the detail about this concept.
 
+# Week 6
+
+1. [Thread and Process in LINUX](https://www.baeldung.com/linux/process-vs-thread)<br>
+
+This link explains the detail about thread and process, and also give the differencess between them. A process itself is a computer program under execution, and a thread is a 
+lightweight process
+
+1. [Thread and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br>
+
+This link describes the detail about thread and concurrency. A thread is an active entity which executes a part of a process, and each different thread has a different stack, stack pointer register, and other register. Because there exist a multicore, sometimes we need to run some threads simultaneously.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
