@@ -72,9 +72,27 @@ Linux supports virtual memory, that is, using a disk as an extension of RAM so t
 This link explains the detail about thread and process, and also give the differencess between them. A process itself is a computer program under execution, and a thread is a 
 lightweight process
 
-1. [Thread and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br>
+2. [Thread and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br>
 
 This link describes the detail about thread and concurrency. A thread is an active entity which executes a part of a process, and each different thread has a different stack, stack pointer register, and other register. Because there exist a multicore, sometimes we need to run some threads simultaneously.
+# Week 7
+
+1. [Deadlock in OS](https://www.guru99.com/deadlock-in-operating-system.html)<br>
+
+This link provides helpful information about detail of deadlock concept.
+Deadlock itself is a situation that occurs in OS when any process enters a waiting state because another waiting process is holding the demanded resource. 
+
+
+2. [Synchronization in OS](https://www.guru99.com/process-synchronization.html)<br>
+Process Synchronization is the task of coordinating the execution of processes in a way that no two processes can have access to the same shared data and resources. This concept is realy important in OS, and this link provide the detail about that process.
+
+# Week 7
+1. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
+This website provide all information about linux from scrath. It will help you to build your own linux system, step by step. All the information is given in this web, but sometimes you need to search from another source if an error occurs.
+
+2. [Multiple-Processor Scheduling](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
+In this week, we learn about scheduling. Scheduling itself has several parts. In this web, we will learn about scheduling an its parts. It will give you the detail about scheduling, and can help your understanding.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
