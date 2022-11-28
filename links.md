@@ -86,13 +86,18 @@ Deadlock itself is a situation that occurs in OS when any process enters a waiti
 2. [Synchronization in OS](https://www.guru99.com/process-synchronization.html)<br>
 Process Synchronization is the task of coordinating the execution of processes in a way that no two processes can have access to the same shared data and resources. This concept is realy important in OS, and this link provide the detail about that process.
 
-# Week 7
+# Week 8
 1. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
 This website provide all information about linux from scrath. It will help you to build your own linux system, step by step. All the information is given in this web, but sometimes you need to search from another source if an error occurs.
 
 2. [Multiple-Processor Scheduling](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
 In this week, we learn about scheduling. Scheduling itself has several parts. In this web, we will learn about scheduling an its parts. It will give you the detail about scheduling, and can help your understanding.
 
+# Week 9
+1. [Mass-Storage Structure](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html)<br>
+This source is useful as a complementary material to the slides, as the contents are similar to the slides.
+2. [Disk Scheduling Algorithms](https://www.101computing.net/disk-scheduling-algorithms/)<br>
+The source provides thorough explanations on disk scheduling algorithms, providing examples to help learners better understand the concepts.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
