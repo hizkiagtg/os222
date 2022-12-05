@@ -94,10 +94,23 @@ This website provide all information about linux from scrath. It will help you t
 In this week, we learn about scheduling. Scheduling itself has several parts. In this web, we will learn about scheduling an its parts. It will give you the detail about scheduling, and can help your understanding.
 
 # Week 9
+
 1. [Mass-Storage Structure](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html)<br>
 This source is useful as a complementary material to the slides, as the contents are similar to the slides.
+
 2. [Disk Scheduling Algorithms](https://www.101computing.net/disk-scheduling-algorithms/)<br>
 The source provides thorough explanations on disk scheduling algorithms, providing examples to help learners better understand the concepts.
+
+# Week 10
+
+1. [Linux Questions](https://www.linuxquestions.org/questions/linux-from-scratch-13/)<br>
+This website is fr the discussion of LFS. This forum give me a good explanations on installing
+LFS. Some of the problem that happen during installation is solved by reading the answer in this forum.
+
+2. [I/O Handling](https://iim6.tripod.com/ibam-os-html/x7922.html)<br>
+Linux uses request structures to pass the I/O requests to the devices. This website provide usefull
+information about that process, and also give all the information about I/O in general.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
